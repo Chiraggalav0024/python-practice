@@ -1,0 +1,10 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+
+# Optional: for ML later
+# scikit-learn
+# jupyter
+# notebook
