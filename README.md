@@ -54,8 +54,8 @@ Notebooks:
 
 Scripts:
 
-- `list-practice.py`
-- `dict-practice.py`
+- `list.py`
+- `dict.py`
 
 ### 03. Object-Oriented Programming
 
