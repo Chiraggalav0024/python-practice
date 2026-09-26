@@ -3,7 +3,7 @@
 # ============================================================
 
 print("=" * 70)
-print("                 PYTHON LIST OPERATIONS")
+print("           PYTHON LIST OPERATIONS")
 print("=" * 70)
 
 
